@@ -15,9 +15,13 @@ Enviar un zip que incluya:
 
     #### Evidencia:
     
-    <img src="https://raw.github.com/jssosa10/Taller-MutationTesting/master/pitest/screenshot/pitest-screenshot.JPG" width="500" >
+    * Consola:
     
+    <img src="https://raw.github.com/jssosa10/Taller-MutationTesting/master/pitest/screenshot/pitest-screenshot.JPG" width="640" >
     
+    ***
+    
+    * Reporte generado: [Click aquí](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jssosa10/Taller-MutationTesting/master/pitest/java-to-do/build/reports/pitest/202004122042/index.html)
 
 * **Su reporte escrito del numeral 2.3 diciendo cómo se comportó la suite de pruebas de JUnit de GNUCash y el Monkey de Android con los mutantes** :
 
