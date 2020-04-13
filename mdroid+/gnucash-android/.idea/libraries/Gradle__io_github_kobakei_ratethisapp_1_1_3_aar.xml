@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.kobakei:ratethisapp:1.1.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ratethisapp-1.1.3.aar/7b782f19df8dfa14cc4eb54556361b5e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ratethisapp-1.1.3.aar/7b782f19df8dfa14cc4eb54556361b5e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.kobakei/ratethisapp/1.1.3/84f1cbaf15439e71c7f8ecc8e2e5193b01c64bbc/ratethisapp-1.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

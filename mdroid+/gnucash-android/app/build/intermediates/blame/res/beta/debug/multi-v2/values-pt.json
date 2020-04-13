@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\alext\\Taller-MutationTesting\\mdroid+\\gnucash-android\\app\\build\\intermediates\\incremental\\mergeBetaDebugResources\\merged.dir\\values-pt\\values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alext\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\4bd14529c8175cfd262a250be9092c42\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "2492",
+                        "endColumns": "100",
+                        "endOffsets": "2588"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alext\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\c46ab30c6c5d112d43f1771358c3da1b\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1904",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,1984"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,2407",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,2487"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alext\\.gradle\\caches\\transforms-1\\files-1.1\\ratethisapp-1.1.3.aar\\7b782f19df8dfa14cc4eb54556361b5e\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,7,8,9",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,303,359,412",
+                        "endLines": "2,6,7,8,9",
+                        "endColumns": "52,13,55,52,71",
+                        "endOffsets": "103,298,354,407,479"
+                    },
+                    "to": {
+                        "startLines": "20,21,25,26,27",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1978,2031,2226,2282,2335",
+                        "endLines": "20,24,25,26,27",
+                        "endColumns": "52,13,55,52,71",
+                        "endOffsets": "2026,2221,2277,2330,2402"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alext\\.gradle\\caches\\transforms-1\\files-1.1\\android-times-square-1.6.5.aar\\5e9e1201db9eca44d899c58324074bb1\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "189",
+                        "endColumns": "73",
+                        "endOffsets": "258"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1904",
+                        "endColumns": "73",
+                        "endOffsets": "1973"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\alext\\Taller-MutationTesting\\mdroid+\\gnucash-android\\app\\build\\intermediates\\incremental\\mergeBetaDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alext\\.gradle\\caches\\transforms-1\\files-1.1\\android-switch-backport-2.0.1.aar\\2a23ed3aee75d49a54e2c0e61ffaa9f9\\res\\values-sw720dp-v13\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "179",
+                        "endColumns": "55",
+                        "endOffsets": "230"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

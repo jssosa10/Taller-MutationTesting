@@ -1,0 +1,102 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\alext\\Taller-MutationTesting\\mdroid+\\gnucash-android\\app\\build\\intermediates\\incremental\\mergeBetaDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alext\\.gradle\\caches\\transforms-1\\files-1.1\\uservoice-android-sdk-1.2.6.aar\\e0d62ec86b7c9ccc4a19b63cf8b8ea97\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "725"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "660",
+                        "endLines": "25",
+                        "endColumns": "12",
+                        "endOffsets": "1330"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alext\\.gradle\\caches\\transforms-1\\files-1.1\\wizardpager-1.0.3.aar\\eb28ef34a151c0f3f5ad8a27f91454df\\res\\values-v14\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "148",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "731"
+                    },
+                    "to": {
+                        "startLines": "40",
+                        "startColumns": "4",
+                        "startOffsets": "2321",
+                        "endLines": "50",
+                        "endColumns": "12",
+                        "endOffsets": "2904"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alext\\Taller-MutationTesting\\mdroid+\\gnucash-android\\app\\src\\main\\res\\values-v14\\dimens.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "668",
+                        "endColumns": "43",
+                        "endOffsets": "707"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "43",
+                        "endOffsets": "94"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alext\\Taller-MutationTesting\\mdroid+\\gnucash-android\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "6,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "247,57",
+                        "endLines": "7,4",
+                        "endColumns": "12,12",
+                        "endOffsets": "343,239"
+                    },
+                    "to": {
+                        "startLines": "8,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "375,475",
+                        "endLines": "9,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "470,655"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alext\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\c46ab30c6c5d112d43f1771358c3da1b\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895",
+                        "endLines": "6,7,8,14,20",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "326,397,480,890,1312"
+                    },
+                    "to": {
+                        "startLines": "3,26,27,28,34",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "99,1335,1406,1489,1899",
+                        "endLines": "7,26,27,33,39",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "370,1401,1484,1894,2316"
+                    }
+                }
+            ]
+        }
+    ]
+}

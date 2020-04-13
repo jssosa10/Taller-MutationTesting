@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\alext\\Taller-MutationTesting\\mdroid+\\gnucash-android\\app\\build\\intermediates\\incremental\\mergeBetaDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alext\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\c46ab30c6c5d112d43f1771358c3da1b\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alext\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\4bd14529c8175cfd262a250be9092c42\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alext\\.gradle\\caches\\transforms-1\\files-1.1\\wizardpager-1.0.3.aar\\eb28ef34a151c0f3f5ad8a27f91454df\\res\\values-v16\\values.xml",
+                    "from": {
+                        "startLines": "4,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "148,643",
+                        "endLines": "12,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "638,1188"
+                    },
+                    "to": {
+                        "startLines": "7,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "294,789",
+                        "endLines": "15,25",
+                        "endColumns": "12,12",
+                        "endOffsets": "784,1334"
+                    }
+                }
+            ]
+        }
+    ]
+}

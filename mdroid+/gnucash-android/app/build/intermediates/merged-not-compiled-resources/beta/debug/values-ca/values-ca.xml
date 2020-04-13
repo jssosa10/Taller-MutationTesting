@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="daily">
+        <item quantity="one">Diari</item>
+        <item quantity="other">Cada <ns1:g id="number">%d</ns1:g> dies</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="one">; una vegada</item>
+        <item quantity="other">; <ns1:g id="number">%d</ns1:g> vegades</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="one">Per <ns1:g id="event_count">%d</ns1:g> vegades</item>
+        <item quantity="other">Per <ns1:g id="event_count">%d</ns1:g> vegades</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> dia</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> dies</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> mes</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> mesos</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> setmana</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> setmanes</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> any</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> anys</item>
+    </plurals>
+    <plurals name="uv_articles">
+        <item quantity="one">article</item>
+        <item quantity="other">articles</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">comentari</item>
+        <item quantity="other">comentaris</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">idea</item>
+        <item quantity="other">idees</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s vol aquesta idea</item>
+        <item quantity="other">%1$s vol aquesta idea</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">persona</item>
+        <item quantity="other">persones</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">subscriptor</item>
+        <item quantity="other">subscriptors</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Setmenal els <ns1:g id="days_of_week">%2$s</ns1:g></item>
+        <item quantity="other">Cada <ns1:g id="number">%1$d</ns1:g> setmanes els <ns1:g id="days_of_week">%2$s</ns1:g></item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navega a la pàgina d\'inici"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navega cap a dalt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Més opcions"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fet"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Mostra\'ls tots"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecciona una aplicació"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Esborra la consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de cerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envia la consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Cerca per veu"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Comparteix amb <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Replega"</string>
+    <string name="acessibility_recurrence_choose_end_date_description">cambiar la data final</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Activa"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionarà si no actives els Serveis de Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Activa els Serveis de Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instal·la"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> no s\'executarà si el telèfon no té instal·lats els Serveis de Google Play."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> no s\'executarà si la tauleta no té instal·lats els Serveis de Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Obtén els Serveis de Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Error dels Serveis de Google Play"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> té problemes amb els Serveis de Google Play. Si el problema continua, contacta amb el desenvolupador per obtenir ajuda."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> depèn dels Serveis de Google Play, que no són compatibles amb el teu dispositiu. Contacta amb el fabricant per obtenir ajuda."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Serveis de Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Actualitza"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no s\'executarà si no actualitzes els Serveis de Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Actualitza els Serveis de Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no s\'executarà sense els Serveis de Google Play, que s\'estan actualitzant en aquest moment."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Actualitzant els Serveis de Google Play"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Cal una nova versió dels Serveis de Google Play. S\'actualitzaran automàticament aviat."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Obre al telèfon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Inicia sessió"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Inicia la sessió amb Google"</string>
+    <string name="day_c">DIA</string>
+    <string name="day_picker_description">Graella mensual</string>
+    <string name="deleted_key">%1$s esborrat</string>
+    <string name="done_label">Fet</string>
+    <string name="endByDate">; fins <ns1:g id="date">%s</ns1:g></string>
+    <string name="every_weekday">"Tots els dies de la setmana (Dl\u2013Dv)"</string>
+    <string name="expiration_picker_seperator">/</string>
+    <string name="hint_time_zone_search">Nom del país</string>
+    <string name="hms_picker_hours_label">H</string>
+    <string name="hms_picker_minutes_label">M</string>
+    <string name="hms_picker_seconds_label">S</string>
+    <string name="hour_picker_description">Slider d\'hores circular</string>
+    <string name="hours_label">h</string>
+    <string name="hours_label_description">hores</string>
+    <string name="item_is_selected">%1$s seleccionat</string>
+    <string name="max_error">Si us plau introdueixi un número més petit o igual a %1$s</string>
+    <string name="min_error">Si us plau introdueixi un número més gran o igual a %1$s</string>
+    <string name="min_max_error">Si us plau introdueixi un número entre %1$s i %2$s</string>
+    <string name="minute_picker_description">Slider de minuts circular</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_label_description">minuts</string>
+    <string name="month_c">MES</string>
+    <string name="monthly">Mensual</string>
+    <string name="no_results_found">Cap resultat trobat</string>
+    <string name="number_delete">Esborrar</string>
+    <string name="number_picker_minus_label">—</string>
+    <string name="number_picker_plus_minus">+/-</string>
+    <string name="number_picker_seperator">.</string>
+    <string name="palestine_display_name">Palestina</string>
+    <string name="picker_cancel">Cancel·lar</string>
+    <string name="picker_set">Acceptar</string>
+    <string name="recurrence_end_continously">Per sempre</string>
+    <string name="recurrence_end_count_label">Un número de vegades</string>
+    <string name="recurrence_end_date">Fins <ns1:g id="date">%s</ns1:g></string>
+    <string name="recurrence_end_date_label">Fins una data</string>
+    <string name="recurrence_month_pattern_by_day">el mateix dia de cada mes</string>
+    <string name="save_label">Fet</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Cerca"</string>
+    <string name="searchview_description_clear">Esborrar</string>
+    <string name="seconds_label">s</string>
+    <string name="seconds_label_description">segons</string>
+    <string name="select_day">Seleccioni mes i any</string>
+    <string name="select_hours">Seleccionar les hores</string>
+    <string name="select_minutes">Seleccionar els minuts</string>
+    <string name="select_year">Seleccioni any</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="time_picker_00_label">:00</string>
+    <string name="time_picker_30_label">:30</string>
+    <string name="time_picker_ampm_label">--</string>
+    <string name="time_picker_time_seperator">:</string>
+    <string name="timer_delete">Esborrar</string>
+    <string name="uv_admin_response_format">"Resposta de l'administrador: %1$s"</string>
+    <string name="uv_all_articles">Tots els articles</string>
+    <string name="uv_all_results_filter">TOTS</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Article</string>
+    <string name="uv_article_browse_question">"T'ha ajudat aquest article?"</string>
+    <string name="uv_article_instant_answer_question">"T'ajuda aquest article?"</string>
+    <string name="uv_articles_filter">ARTICLES</string>
+    <string name="uv_cancel">Cancel·la</string>
+    <string name="uv_category">Categoria</string>
+    <string name="uv_close">Tanca</string>
+    <string name="uv_comment_hint">Escriu el teu comentari</string>
+    <string name="uv_confirm">Confirma</string>
+    <string name="uv_contact_continue_button">Encara vull enviar un missatge</string>
+    <string name="uv_contact_hint">Escriu la teva pregunta o comentari</string>
+    <string name="uv_contact_us">Contacta amb nosaltres</string>
+    <string name="uv_display_name">Nom per visualitzar</string>
+    <string name="uv_email_address">Adreça electrònica</string>
+    <string name="uv_email_address_hint">correu@electrònic.com (obligatori)</string>
+    <string name="uv_error">Error</string>
+    <string name="uv_failed_signin_error">"L'adreça electrònica o la contrasenya no són correctes"</string>
+    <string name="uv_feedback_forum">Fòrum de comentaris</string>
+    <string name="uv_forgot_password">Has oblidat la contrasenya?</string>
+    <string name="uv_helpful_article_message_question">Encara vols enviar un missatge?</string>
+    <string name="uv_i_want_this">Vull això!</string>
+    <string name="uv_idea">Idea</string>
+    <string name="uv_idea_description_heading">Descriu la idea més detalladament</string>
+    <string name="uv_idea_description_hint">(opcional)</string>
+    <string name="uv_idea_form_help">"Quan publiques una idea al fòrum, altres persones poden subscriure's a ella i fer comentaris. Se t'enviarà una notificació quan responguem a la idea."</string>
+    <string name="uv_idea_form_title">Publica una idea</string>
+    <string name="uv_idea_text_heading">Suggereixo...</string>
+    <string name="uv_idea_text_hint">Escriu la teva idea</string>
+    <string name="uv_ideas_filter">IDEES</string>
+    <string name="uv_knowledge_base">Base de coneixement</string>
+    <string name="uv_loading">"S'està carregant…"</string>
+    <string name="uv_matching_articles">Articles coincidents</string>
+    <string name="uv_matching_articles_and_ideas">Articles i idees coincidents</string>
+    <string name="uv_matching_ideas">Idees coincidents</string>
+    <string name="uv_menu_search">Cerca</string>
+    <string name="uv_msg_bad_email_format">Escriu una adreça de correu electrònic vàlida.</string>
+    <string name="uv_msg_comment_posted">"S'ha publicat el comentari"</string>
+    <string name="uv_msg_confirm_discard_idea">Segur que vols descartar la idea?</string>
+    <string name="uv_msg_confirm_discard_message">Segur que vols descartar el missatge?</string>
+    <string name="uv_msg_custom_fields_validation">Omple tots els camps obligatoris.</string>
+    <string name="uv_msg_forgot_password">"S'ha enviat la contrasenya oblidada de l'adreça de correu"</string>
+    <string name="uv_msg_idea_created">"S'ha creat la teva idea"</string>
+    <string name="uv_msg_subscribe">"T'anirem informant dels progressos d'aquesta idea."</string>
+    <string name="uv_msg_subscribe_success">"T'has subscrit a aquesta idea."</string>
+    <string name="uv_msg_ticket_created">"S'ha enviat el teu missatge"</string>
+    <string name="uv_msg_unsubscribe">Has cancel·lat la inscripció a aquesta idea.</string>
+    <string name="uv_msg_user_identity_validation">Introdueix la teva adreça electrònica</string>
+    <string name="uv_name_hint">\"Anònim\"</string>
+    <string name="uv_network_error">"S'ha produït un error en connectar-se a UserVoice"</string>
+    <string name="uv_nevermind">Deixa-ho córrer</string>
+    <string name="uv_new_comment">Comentari nou</string>
+    <string name="uv_next">Següent</string>
+    <string name="uv_no">No</string>
+    <string name="uv_none_of_these_help">"Cap d'ells m'ajuda"</string>
+    <string name="uv_password">Contrasenya</string>
+    <string name="uv_password_dialog_title">Introdueix la contrasenya</string>
+    <string name="uv_portal_title">Ajuda</string>
+    <string name="uv_post_a_comment">Publica un comentari</string>
+    <string name="uv_post_an_idea">Publica una idea</string>
+    <string name="uv_post_comment">Publica un comentari</string>
+    <string name="uv_post_idea_continue_button">Encara vull publicar la meva idea</string>
+    <string name="uv_posted_by_format">Publicat per %1$s el dia %2$s</string>
+    <string name="uv_powered_by_uservoice">Amb tecnologia de UserVoice</string>
+    <string name="uv_ranked">Classificació: %1$s</string>
+    <string name="uv_remove_votes">Suprimeix vots</string>
+    <string name="uv_select_none">(cap)</string>
+    <string name="uv_select_one">"Selecciona'n un"</string>
+    <string name="uv_send_message">Envia el missatge</string>
+    <string name="uv_signin_dialog_ok">Inicia la sessió</string>
+    <string name="uv_signin_dialog_title">Inicia la sessió</string>
+    <string name="uv_status_format">Estat: %1$s</string>
+    <string name="uv_submit_idea">Envia una idea</string>
+    <string name="uv_subscribe">"Subscriu-m'hi"</string>
+    <string name="uv_subscribe_dialog_title">Subscriu-me a aquesta idea</string>
+    <string name="uv_suggestion_instant_answer_question">"Aquesta idea t'ha resultat útil?"</string>
+    <string name="uv_thanks">Gràcies!</string>
+    <string name="uv_title_idea">Idea</string>
+    <string name="uv_unhelpful_article_message_question">Vols enviar un missatge?</string>
+    <string name="uv_value">Valor</string>
+    <string name="uv_very_yes">Sí</string>
+    <string name="uv_yes">Sí</string>
+    <string name="uv_your_email_address">La teva adreça electrònica</string>
+    <string name="uv_your_name">El teu nom</string>
+    <string name="year_c">ANY</string>
+    <string name="year_picker_description">Llista d\'anys</string>
+    <string name="yearly_plain">Anual</string>
+</resources>

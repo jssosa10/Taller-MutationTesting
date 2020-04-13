@@ -1,0 +1,3 @@
+# Referenced at C:\Users\alext\Taller-MutationTesting\mdroid+\gnucash-android\app\build\intermediates\manifests\full\beta\debug\AndroidManifest.xml:66
+-keep class org.gnucash.android.app.GnuCashApplication { <init>(...); }
+
