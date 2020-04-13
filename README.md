@@ -30,6 +30,12 @@ Enviar un zip que incluya:
     *Usted deberá escoger 10 de los mutantes generados y reemplazar las fuentes de GNUCash por las de los 10 mutantes escogidos. Desde Android Studio deberá correr las pruebas JUnit incluidas en el proyecto para cada uno de los mutantes. Luego, tendrá que hacer un reporte de cuáles mutantes fueron matados y cuáles lograron sobrevivir.*
 
     *Además, usted deberá compilar las fuentes de los 10 mutantes y luego correr el monkey de Android contra cada una de estas. La idea es que usted compare la ejecución de un mismo monkey sobre los mutantes y la aplicación original. Incluya en su reporte que mutantes fueron matados con el monkey y cuáles sobrevivieron.*
+    
+    #### Evidencia:
+    
+    * Comando ejecutado para generar mutaciones:
+
+    ```java -jar .\target\MDroidPlus-1.0.0.jar .\libs4ast\ C:\Users\alext\Taller-MutationTesting\mdroid+\gnucash-android\app\src\main\ org.gnucash.android .\tmp\mutants\ .\ true```
 
 * **Los reportes generados en el numeral 3**
 
