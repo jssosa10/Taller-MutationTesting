@@ -8,10 +8,16 @@ Taller implementado por:
 - [x] Juan Sebastian Sosa
     - 201425255
 
-## Entregable
+## ENTREGABLE
 Enviar un zip que incluya:
 
 * **Los reportes generados en el numeral 1**
+
+    #### Evidencia:
+    
+    <img src="https://raw.github.com/jssosa10/Taller-MutationTesting/master/pitest/screenshot/pitest-screenshot.JPG" width="500" >
+    
+    
 
 * **Su reporte escrito del numeral 2.3 diciendo cómo se comportó la suite de pruebas de JUnit de GNUCash y el Monkey de Android con los mutantes** :
 
