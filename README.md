@@ -17,13 +17,13 @@ Enviar un zip que incluya:
     
     * Consola:
     
-    <img src="/pitest/screenshot/pitest-screenshot.JPG" width="640" >
+    <img src="/pitest/screenshot/pitest-screenshot.JPG" width="600" >
     
     ***
     
     * Reporte generado: [Click aquí](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jssosa10/Taller-MutationTesting/master/pitest/java-to-do/build/reports/pitest/202004122042/index.html)
     
-    <img src="/pitest/screenrecord/pitest-screenrecord.JPG" width="400" >
+    <img src="pitest/screenrecord/pitest-screenrecord.gif" width="500" >
 
 * **Su reporte escrito del numeral 2.3 diciendo cómo se comportó la suite de pruebas de JUnit de GNUCash y el Monkey de Android con los mutantes** :
 
