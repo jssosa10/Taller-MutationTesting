@@ -35,7 +35,7 @@ Enviar un zip que incluya:
     
     * Comando ejecutado (en Windows) para generar mutaciones ubicandose en la carpeta [mdroid+\MDroidPlus\](mdroid+\MDroidPlus\) en el repo:
 
-    ```java -jar .\target\MDroidPlus-1.0.0.jar .\libs4ast\ ..\gnucash-android\app\src\main\ org.gnucash.android .\tmp\mutants\ .\ true```
+    ```java -jar .\target\MDroidPlus-1.0.0.jar .\libs4ast\ ..\gnucash-android\app\src\main\ org.gnucash.android .\tmp\mutants\ .\ false```
 
 * **Los reportes generados en el numeral 3**
 
