@@ -17,13 +17,13 @@ Enviar un zip que incluya:
     
     * Consola:
     
-    <img src="/pitest/screenshot/pitest-screenshot.JPG" width="600" >
+       <img src="/pitest/screenshot/pitest-screenshot.JPG" width="600" >
     
     ***
     
     * Reporte generado: [Click aquí](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jssosa10/Taller-MutationTesting/master/pitest/java-to-do/build/reports/pitest/202004122042/index.html)
     
-    <img src="pitest/screenrecord/pitest-screenrecord.gif" width="500" >
+       <img src="pitest/screenrecord/pitest-screenrecord.gif" width="500" >
 
 * **2. Su reporte escrito del numeral 2.3 diciendo cómo se comportó la suite de pruebas de JUnit de GNUCash y el Monkey de Android con los mutantes** :
 
@@ -35,15 +35,15 @@ Enviar un zip que incluya:
     
     * Comando ejecutado (en Windows) para generar las mutaciones:
 
-    ```java -jar .\target\MDroidPlus-1.0.0.jar .\libs4ast\ ..\gnucash-android\app\src\main\ org.gnucash.android .\tmp\mutants\ .\ false```
+       ```java -jar .\target\MDroidPlus-1.0.0.jar .\libs4ast\ ..\gnucash-android\app\src\main\ org.gnucash.android .\tmp\mutants\ .\ false```
     
     ***
     
     * Se generaron 996 mutantes con exito:
     
-    <img src="mdroid+/screenshots/MDroidPlus-screenshot-ok.JPG" width="400" >
+       <img src="mdroid+/screenshots/MDroidPlus-screenshot-ok.JPG" width="400" >
     
-    <img src="mdroid+/screenrecords/MDroidPlus-screenrecord-allmutants.gif" width="500" >
+       <img src="mdroid+/screenrecords/MDroidPlus-screenrecord-allmutants.gif" width="500" >
     
     ***
     
