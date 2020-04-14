@@ -11,7 +11,7 @@ Taller implementado por:
 ## ENTREGABLE
 Enviar un zip que incluya:
 
-* **Los reportes generados en el numeral 1**
+* **1. Los reportes generados en el numeral 1**
 
     #### Evidencia:
     
@@ -25,7 +25,7 @@ Enviar un zip que incluya:
     
     <img src="pitest/screenrecord/pitest-screenrecord.gif" width="500" >
 
-* **Su reporte escrito del numeral 2.3 diciendo cómo se comportó la suite de pruebas de JUnit de GNUCash y el Monkey de Android con los mutantes** :
+* **2. Su reporte escrito del numeral 2.3 diciendo cómo se comportó la suite de pruebas de JUnit de GNUCash y el Monkey de Android con los mutantes** :
 
     *Usted deberá escoger 10 de los mutantes generados y reemplazar las fuentes de GNUCash por las de los 10 mutantes escogidos. Desde Android Studio deberá correr las pruebas JUnit incluidas en el proyecto para cada uno de los mutantes. Luego, tendrá que hacer un reporte de cuáles mutantes fueron matados y cuáles lograron sobrevivir.*
 
@@ -47,16 +47,15 @@ Enviar un zip que incluya:
     
     ***
     
-    * Reporte escrito: [Click aquí]()
-    
+    * Reporte escrito MDroidPlus: [Click aquí](https://github.com/jssosa10/Taller-MutationTesting/wiki/2.-Reporte-escrito-MDroidPlus)
 
-* **Los reportes generados en el numeral 3**
+* **3. Los reportes generados en el numeral 3**
 
     #### Evidencia:
     
     * JSOSA
 
-* **Bitacora de uso de MutAPK** :
+* **4. Bitacora de uso de MutAPK** :
 
     *Usted debe seleccionar una de las apps móviles usadas para el proyecto y hacer uso de MutAPK escogiendo 5 operadores y limitando la cantidad de mutantes generados a 50.*
 
@@ -64,4 +63,4 @@ Enviar un zip que incluya:
 
     #### Evidencia:
     
-    * JSOSA
+    * Bitácora MutAPK: [Click aquí](https://github.com/jssosa10/Taller-MutationTesting/wiki/4.-Bit%C3%A1cora-MutAPK)
