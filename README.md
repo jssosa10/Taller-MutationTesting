@@ -33,15 +33,35 @@ Enviar un zip que incluya:
     
     #### Evidencia:
     
-    * Comando ejecutado (en Windows) para generar mutaciones ubicandose en la carpeta [mdroid+\MDroidPlus\](mdroid+\MDroidPlus\) en el repo:
+    * Comando ejecutado (en Windows) para generar las mutaciones:
 
     ```java -jar .\target\MDroidPlus-1.0.0.jar .\libs4ast\ ..\gnucash-android\app\src\main\ org.gnucash.android .\tmp\mutants\ .\ false```
+    
+    ***
+    
+    * Se generaron 996 mutantes con exito:
+    
+    <img src="mdroid+/screenshots/MDroidPlus-screenshot-ok.JPG" width="400" >
+    
+    <img src="mdroid+/screenrecords/MDroidPlus-screenrecord-allmutants.gif" width="500" >
+    
+    ***
+    
+    * Reporte escrito: [Click aquí]()
+    
 
 * **Los reportes generados en el numeral 3**
 
+    #### Evidencia:
+    
+    * JSOSA
 
 * **Bitacora de uso de MutAPK** :
 
     *Usted debe seleccionar una de las apps móviles usadas para el proyecto y hacer uso de MutAPK escogiendo 5 operadores y limitando la cantidad de mutantes generados a 50.*
 
     *El reporte de esta parte del taller consta de una bitacora de uso de MutAPK junto con una evaluación sencilla de los resultados obtenidos, se espera que usted evalue por lo menos la cantidad de APKs que se generaron por operador al finalizar la ejecución de MutAPK.*
+
+    #### Evidencia:
+    
+    * JSOSA
