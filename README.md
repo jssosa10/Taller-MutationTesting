@@ -53,7 +53,13 @@ Enviar un zip que incluya:
 
     #### Evidencia:
     
-    * JSOSA
+    * Foto:
+    
+       <img src="/stryker/report_screen.png" width="600" >
+    
+    ***
+    
+    * Reporte generado: [Click aquí](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jssosa10/Taller-MutationTesting/master/stryker/reports/mutation/html/index.html)
 
 * **4. Bitacora de uso de MutAPK** :
 
