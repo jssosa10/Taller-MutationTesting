@@ -47,7 +47,7 @@ Enviar un zip que incluya:
     
     ***
     
-    * Reporte escrito MDroidPlus: [Click aquí](https://github.com/jssosa10/Taller-MutationTesting/wiki/2.-Reporte-escrito-MDroidPlus)
+    * **Ver reporte escrito mutantes MDroid+**: [Click aquí](https://github.com/jssosa10/Taller-MutationTesting/wiki/2.-Reporte-escrito-MDroidPlus)
 
 * **3. Los reportes generados en el numeral 3**
 
