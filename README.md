@@ -55,7 +55,7 @@ Enviar un zip que incluya:
     
     * Foto:
     
-       <img src="/stryker/report_screen.png" width="700" >
+       <img src="/stryker/report_screen.png">
     
     ***
     
