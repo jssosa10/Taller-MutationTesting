@@ -9,7 +9,7 @@ Taller implementado por:
     - 201425255
 
 ## ENTREGABLE
-Enviar un zip que incluya:
+A continuación las evidencias de los 4 puntos requeridos:
 
 * **1. Los reportes generados en el numeral 1**
 
