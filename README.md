@@ -69,4 +69,4 @@ Enviar un zip que incluya:
 
     #### Evidencia:
     
-    * Bitácora MutAPK: [Click aquí](https://github.com/jssosa10/Taller-MutationTesting/wiki/4.-Bit%C3%A1cora-MutAPK)
+    * **Ver bitácora MutAPK**: [Click aquí](https://github.com/jssosa10/Taller-MutationTesting/wiki/4.-Bit%C3%A1cora-MutAPK)
